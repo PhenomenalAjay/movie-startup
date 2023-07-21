@@ -7,7 +7,7 @@ public class king {
         hell s3 = new hell();
 
         s1.movie="one piece";
-        s1.hero="luff";
+        s1.hero="luffy";
         s1.budget=5000;
 
         s2.movie="naruto";
